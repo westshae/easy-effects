@@ -42,10 +42,6 @@ public class Absorption implements CommandExecutor {
                 sender.sendMessage(ChatColor.RED + "Potion level cannot be less then 1");
                 return;
             }
-            if (args == null) {
-                sender.sendMessage(ChatColor.RED + "Syntax Error: /" + effect + " <LEVEL> <PLAYER>");
-                return;
-            }
             if (args.length > 2) {
                 sender.sendMessage(ChatColor.RED + "SyntaxError: Please use /" + effect + " <LEVEL> <PLAYER>");
             }
