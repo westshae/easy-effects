@@ -1,0 +1,95 @@
+name: EasyEffects
+version: 1.0
+main: com.altoya.easyeffects.Main
+
+commands:
+  milk:
+    description: Removes all player effects'
+    usage: /milk
+  speed:
+    description: Gives infinite speed
+    usage: /speed
+  slowness:
+    description: Gives infinite slowness
+    usage: /slowness
+  blindness:
+    description: Gives infinite blindness
+    usage: /blind
+  badomen:
+    description: Gives infinite bad omen
+    usage: /badomen
+  badluck:
+    description: Gives infinite bad luck
+    usage: /badluck
+  absorption:
+    description: Gives infinite absorption
+    usage: /absorption
+  conduitpower:
+    description: Gives infinite conduit's power
+    usage: /conduitpower
+  dolphinsgrace:
+    description: Gives infinite dolphin's grace
+    usage: /dolphinsgrace
+  fireresistance:
+    description: Gives infinite fire resistance
+    usage: /fireresistance
+  glowing:
+    description: Gives infinite glowing
+    usage: /glowing
+  haste:
+    description: Gives infinite haste
+    usage: /haste
+  healthboost:
+    description: Gives infinite health boost
+    usage: /healthboost
+  heroofthevillage:
+    description: Gives infinite hero of the village
+    usage: /heroofthevillage
+  hunger:
+    description: Gives infinite hunger
+    usage: /hunger
+  invisibility:
+    description: Gives infinite invisibility
+    usage: /invisibility
+  jumpboost:
+    description: Gives infinite jump boost
+    usage: /jumpboost
+  levitation:
+    description: Gives infinite levitation
+    usage: /levitation
+  goodluck:
+    description: Gives infinite good luck
+    usage: /goodluck
+  miningfatigue:
+    description: Gives infinite mining fatigue
+    usage: /miningfatigue
+  nausea:
+    description: Gives infinite nausea
+    usage: /nausea
+  nightvision:
+    description: Gives infinite night vision
+    usage: /nightvision
+  poison:
+    description: Gives infinite poison
+    usage: /poison
+  regeneration:
+    description: Gives infinite regeneration
+    usage: /regeneration
+  resistance:
+    description: Gives infinite resistance
+    usage: /resistance
+  slowfalling:
+    description: Gives infinite slow falling
+    usage: /slowfalling
+  strength:
+    description: Gives infinite strength
+    usage: /strength
+  waterbreathing:
+    description: Gives infinite water breathing
+    usage: /waterbreathing
+  weakness:
+    description: Gives infinite weakness
+    usage: /weakness
+  wither:
+    description: Gives infinite wither
+    usage: /wither
